@@ -1,5 +1,5 @@
 [README (1).md](https://github.com/user-attachments/files/31857139/README.1.md)
-# 👩‍💻 Daniela Santos
+# Daniela Santos
 
 ### 🎓 Graduanda em Inteligência Artificial | 🤖 IA Generativa | 🧠 Agentes de IA | 📊 Dados
 
